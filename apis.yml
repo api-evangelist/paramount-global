@@ -7,4 +7,9 @@ description: 'Fortune 1000 company Paramount Global. Public API documentation ha
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/paramount-streaming
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/paramountco
 apis: []
